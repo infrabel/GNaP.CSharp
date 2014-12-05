@@ -1,6 +1,12 @@
 GNaP.Common
 ===========
 
+## NuGet
+
+  * [GNaP.Core](https://www.nuget.org/packages/GNaP.Core)
+  * [GNaP.DependencyInjection](https://www.nuget.org/packages/GNaP.DependencyInjection)
+  * [GNaP.DependencyInjection.Web](https://www.nuget.org/packages/GNaP.DependencyInjection.Web)
+
 ## Copyright
 
 Copyright © 2014 Infrabel and contributors.
