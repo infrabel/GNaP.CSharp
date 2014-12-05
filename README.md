@@ -1,4 +1,4 @@
-GNaP.CSharp
+GNaP.Common
 ===========
 
 ## Copyright
