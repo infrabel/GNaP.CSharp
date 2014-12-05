@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GNaP.Core", "GNaP.Core\GNaP.Core.csproj", "{F63A5D4F-3A7F-4A31-9E3C-99E95F18F7F8}"
 EndProject
@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
 		CommonAssemblyInfo.cs = CommonAssemblyInfo.cs
+		..\nupack.cmd = ..\nupack.cmd
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject

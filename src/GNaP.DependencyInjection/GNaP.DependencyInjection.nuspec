@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$id$</title>
+    
+    <authors>infrabel</authors>
+    <owners>infrabel</owners>
+
+    <summary>Service Locator extension to support abstract dependency injection</summary>
+    <description>$description$</description>
+    <copyright>BSD (3-Clause) - Infrabel</copyright>
+    
+    <projectUrl>https://github.com/infrabel/GNaP.Common</projectUrl>
+    <iconUrl>https://github.com/infrabel/GNaP.Common/blob/master/src/icon.png</iconUrl>
+    <licenseUrl>https://github.com/infrabel/GNaP.Common/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    
+    <tags>gnap di ioc</tags>
+  </metadata>
+</package>
